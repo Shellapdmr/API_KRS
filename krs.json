@@ -5,128 +5,139 @@
     "Semester/TA": "3/2022",
     "Prodi": "Teknologi Informasi",
     "Pembimbing": "Bonita Destiana S.Pd.,M.Pd.",
-    "Mata Kuliah": {
-        "Praktik Algoritma Pemrograman": {
-            "kode": "TIN6113",
-            "SKS": "1",
-            "Kelas/Rombel": "J1",
-            "Pengampu": "Bonita Destiana S.Pd.,M.Pd.",
-            "Ket": "Praktik",
-            "Ruang": "Lab.Multimedia & Virtual Reality, GEDUNG IDB PT.ELEKTRO & ELEKTRONIKA",
-            "Hari": "Kamis",
-            "Jam start": "12:31",
-            "Jam end": "14:10"
+    "Mata Kuliah": 
+    [
+        {
+        "nama" : "Praktik Algoritma Pemrograman",
+        "kode": "TIN6113",
+        "SKS": "1",
+        "Kelas/Rombel": "J1",
+        "Pengampu": "Bonita Destiana S.Pd.,M.Pd.",
+        "Ket": "Praktik",
+        "Ruang": "Lab.Multimedia & Virtual Reality, GEDUNG IDB PT.ELEKTRO & ELEKTRONIKA",
+        "Hari": "Kamis",
+        "Jam start": "12:31",
+        "Jam end": "14:10"
         },
-        "Algoritma Pemrograman": {
-            "kode": "TIN6213",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Bonita Destiana S.Pd.,M.Pd.",
-            "Ket": "Teori",
-            "Ruang": "R. Kuliah (RF 4), GEDUNG RF",
-            "Hari": "Senin",
-            "Jam start": "10:51",
-            "Jam end" : "12:30"
-            
+        {
+        "nama" : "Algoritma Pemrograman",
+        "kode": "TIN6213",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Bonita Destiana S.Pd.,M.Pd.",
+        "Ket": "Teori",
+        "Ruang": "R. Kuliah (RF 4), GEDUNG RF",
+        "Hari": "Senin",
+        "Jam start": "10:51",
+        "Jam end" : "12:30"  
         },
-        "Komunikasi Data": {
-            "kode": "TIN6218",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Yuniar Indrihapsari S.T., M.Eng.",
-            "Ket": "Teori",
-            "Ruang": "R. AVA B Media, GEDUNG MEDIA, AULA dan RUANG THEATER",
-            "Hari": "Selasa",
-            "Jam start": "07:30",
-            "Jam end" : "09:10"
+        {
+        "nama" : "Komunikasi Data",
+        "kode": "TIN6218",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Yuniar Indrihapsari S.T., M.Eng.",
+        "Ket": "Teori",
+        "Ruang": "R. AVA B Media, GEDUNG MEDIA, AULA dan RUANG THEATER",
+        "Hari": "Selasa",
+        "Jam start": "07:30",
+        "Jam end" : "09:10"
+         },
+         {
+        "nama" : "Praktik Komunikasi Data",
+        "kode": "TIN6219",
+        "SKS": "2",
+        "Kelas/Rombel": "J1",
+        "Pengampu": "Yuniar Indrihapsari S.T., M.Eng.",
+        "Ket": "Praktik",
+        "Ruang": "R.Kuliah (LPTK 6), GEDUNG LPTK",
+        "Hari": "Rabu",
+        "Jam start": "14:11",
+        "Jam end" : "17:30"
         },
-        "Praktik Komunikasi Data": {
-            "kode": "TIN6219",
-            "SKS": "2",
-            "Kelas/Rombel": "J1",
-            "Pengampu": "Yuniar Indrihapsari S.T., M.Eng.",
-            "Ket": "Praktik",
-            "Ruang": "R.Kuliah (LPTK 6), GEDUNG LPTK",
-            "Hari": "Rabu",
-            "Jam start": "14:11",
-            "Jam end" : "17:30"
+        {
+        "nama" : "Pemrograman Visual",
+        "kode": "TIN6220",
+        "SKS": "2",
+        "Kelas/Rombel": "J1",
+        "Pengampu": "Dr.Phil Rahmatul Irfan S.T., M.T.",
+        "Ket": "Praktik",
+        "Ruang": "R.Kuliah (LPTK 5), GEDUNG LPTK",
+        "Hari": "Kamis",
+        "Jam start": "07:30",
+        "Jam end" : "10:50"
         },
-        "Pemrograman Visual": {
-            "kode": "TIN6220",
-            "SKS": "2",
-            "Kelas/Rombel": "J1",
-            "Pengampu": "Dr.Phil Rahmatul Irfan S.T., M.T.",
-            "Ket": "Praktik",
-            "Ruang": "R.Kuliah (LPTK 5), GEDUNG LPTK",
-            "Hari": "Kamis",
-            "Jam start": "07:30",
-            "Jam end" : "10:50"
+        {
+        "nama" : "Basis Data",
+        "kode": "TIN6223",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Dr.Adi Dewanto S.T., M.Kom.",
+        "Ket": "Teori",
+        "Ruang": "R.Kuliah RF 7, GEDUNG RF",
+        "Hari": "Senin",
+        "Jam start": "07:30",
+        "Jam end" : "09:10"
         },
-        "Basis Data": {
-            "kode": "TIN6223",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Dr.Adi Dewanto S.T., M.Kom.",
-            "Ket": "Teori",
-            "Ruang": "R.Kuliah RF 7, GEDUNG RF",
-            "Hari": "Senin",
-            "Jam start": "07:30",
-            "Jam end" : "09:10"
+        {
+        "nama" : "Praktik Basis Data",
+        "kode": "TIN6224",
+        "SKS": "2",
+        "Kelas/Rombel": "J1",
+        "Pengampu": "Dr.Adi Dewanto S.T., M.Kom.",
+        "Ket": "Praktik",
+        "Ruang": "Lab.Sistem Informasi dan Pemrograman, GEDUNG IDB PT.ELEKTRO & ELEKTRONIKA",
+        "Hari": "Jumat",
+        "Jam start": "12:31",
+        "Jam end" : "15:50"
         },
-        "Praktik Basis Data": {
-            "kode": "TIN6224",
-            "SKS": "2",
-            "Kelas/Rombel": "J1",
-            "Pengampu": "Dr.Adi Dewanto S.T., M.Kom.",
-            "Ket": "Praktik",
-            "Ruang": "Lab.Sistem Informasi dan Pemrograman, GEDUNG IDB PT.ELEKTRO & ELEKTRONIKA",
-            "Hari": "Jumat",
-            "Jam start": "12:31",
-            "Jam end" : "15:50"
+        {
+        "nama" : "Media Digital",
+        "kode": "TIN6225",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Dr. Priyanto M.Kom.",
+        "Ket": "Teori",
+        "Ruang": "Lab. Virtual Reality (RF 9), GEDUNG RF",
+        "Hari": "Jumat",
+        "Jam start": "07:30",
+        "Jam end" : "09:10"
         },
-        "Media Digital": {
-            "kode": "TIN6225",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Dr. Priyanto M.Kom.",
-            "Ket": "Teori",
-            "Ruang": "Lab. Virtual Reality (RF 9), GEDUNG RF",
-            "Hari": "Jumat",
-            "Jam start": "07:30",
-            "Jam end" : "09:10"
+        {
+        "nama" : "Rekayasa Perangkat Lunak",
+        "kode": "TIN6226",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Dr. Ratna Wardani M.T.",
+        "Ket": "Teori",
+        "Ruang": "R. Kuliah (RF 6), GEDUNG RF",
+        "Hari": "Rabu",
+        "Jam start": "07:30",
+        "Jam end" : "09:10"
         },
-        "Rekayasa Perangkat Lunak": {
-            "kode": "TIN6226",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Dr. Ratna Wardani M.T.",
-            "Ket": "Teori",
-            "Ruang": "R. Kuliah (RF 6), GEDUNG RF",
-            "Hari": "Rabu",
-            "Jam start": "07:30",
-            "Jam end" : "09:10"
+        {
+        "nama" : "Metode Numerik",
+        "kode": "TIN6234",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Dr. Priyanto M.Kom.",
+        "Ket": "Teori",
+        "Ruang": "Lab. Virtual Reality (RF 9), GEDUNG RF",
+        "Hari": "Jumat",
+        "Jam start": "09:11",
+        "Jam end" : "10:50"
         },
-        "Metode Numerik": {
-            "kode": "TIN6234",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Dr. Priyanto M.Kom.",
-            "Ket": "Teori",
-            "Ruang": "Lab. Virtual Reality (RF 9), GEDUNG RF",
-            "Hari": "Jumat",
-            "Jam start": "09:11",
-            "Jam end" : "10:50"
-        },
-        "Aljabar Linear": {
-            "kode": "TIN6235",
-            "SKS": "2",
-            "Kelas/Rombel": "J",
-            "Pengampu": "Akhsin Nurlayli S.Pd., M.Eng.",
-            "Ket": "Teori",
-            "Ruang": "R. Kuliah (RF 6), GEDUNG RF",
-            "Hari": "Rabu",
-            "Jam start": "09:11",
-            "Jam end" : "10:50"
+        {
+        "nama" : "Aljabar Linear",
+        "kode": "TIN6235",
+        "SKS": "2",
+        "Kelas/Rombel": "J",
+        "Pengampu": "Akhsin Nurlayli S.Pd., M.Eng.",
+        "Ket": "Teori",
+        "Ruang": "R. Kuliah (RF 6), GEDUNG RF",
+        "Hari": "Rabu",
+        "Jam start": "09:11",
+        "Jam end" : "10:50"
         }
-    }
+    ]       
 }
